@@ -1,0 +1,16 @@
+# ninja log v6
+15	547	7533758781667236	CMakeFiles/StudentManagementSystem.dir/Student.cpp.obj	53ee9417ed514e53
+22	567	7533758781741536	CMakeFiles/StudentManagementSystem.dir/StudentManagement.cpp.obj	e41498f8bf97cdc1
+3	613	7533758781557250	CMakeFiles/StudentManagementSystem.dir/main.cpp.obj	ea590b967fbbd64b
+613	876	7533758787655169	StudentManagementSystem.exe	4592fe196dff4436
+24	430	7533759718683490	CMakeFiles/StudentManagementSystem.dir/StudentManagement.cpp.obj	e41498f8bf97cdc1
+430	605	7533759722741898	StudentManagementSystem.exe	4592fe196dff4436
+30	519	7533761588707994	CMakeFiles/StudentManagementSystem.dir/Student.cpp.obj	53ee9417ed514e53
+23	526	7533761588635953	CMakeFiles/StudentManagementSystem.dir/main.cpp.obj	ea590b967fbbd64b
+526	665	7533761593672458	StudentManagementSystem.exe	4592fe196dff4436
+29	586	7533762080545260	CMakeFiles/StudentManagementSystem.dir/Student.cpp.obj	53ee9417ed514e53
+587	752	7533762086119186	StudentManagementSystem.exe	4592fe196dff4436
+26	512	7533763612747102	CMakeFiles/StudentManagementSystem.dir/main.cpp.obj	ea590b967fbbd64b
+513	672	7533763617620503	StudentManagementSystem.exe	4592fe196dff4436
+8	611	7533767944807770	CMakeFiles/StudentManagementSystem.dir/main.cpp.obj	ea590b967fbbd64b
+612	827	7533767950836870	StudentManagementSystem.exe	4592fe196dff4436
