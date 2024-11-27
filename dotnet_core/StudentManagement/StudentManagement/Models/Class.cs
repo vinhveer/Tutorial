@@ -1,15 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace StudentManagement.Models;
-
-public partial class Class
+namespace StudentManagement.Models
 {
-    public int ClassId { get; set; }
+    public partial class Class
+    {
+        public Class()
+        {
+            Students = new HashSet<Student>();
+        }
 
-    public string ClassName { get; set; } = null!;
+        public int ClassId { get; set; }
+        public string ClassName { get; set; } = null!;
+        public int AcademicYear { get; set; }
 
-    public int AcademicYear { get; set; }
-
-    public virtual ICollection<Student> Students { get; set; } = new List<Student>();
+        public virtual ICollection<Student> Students { get; set; }
+    }
 }

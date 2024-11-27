@@ -28,7 +28,7 @@ namespace StudentManagement.Controllers
         // GET: Students/Details/5
         public async Task<IActionResult> Details(int? id)
         {
-            if (id == null)
+            if (id == null || _context.Students == null)
             {
                 return NotFound();
             }
@@ -47,7 +47,7 @@ namespace StudentManagement.Controllers
         // GET: Students/Create
         public IActionResult Create()
         {
-            ViewData["ClassId"] = new SelectList(_context.Classes, "ClassId", "ClassId");
+            ViewData["ClassId"] = new SelectList(_context.Classes, "ClassId", "ClassName");
             return View();
         }
 
@@ -56,22 +56,29 @@ namespace StudentManagement.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("StudentId,FullName,DateOfBirth,Gender,Email,PhoneNumber,ClassId")] Student student)
+        public async Task<IActionResult> Create(Student student)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
+                foreach (var entry in ModelState)
+                {
+                    foreach (var error in entry.Value.Errors)
+                    {
+                        Console.WriteLine($"Key: {entry.Key}, Error: {error.ErrorMessage}");
+                    }
+                }
                 _context.Add(student);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["ClassId"] = new SelectList(_context.Classes, "ClassId", "ClassId", student.ClassId);
+            ViewData["ClassId"] = new SelectList(_context.Classes, "ClassId", "ClassName", student.ClassId);
             return View(student);
         }
 
         // GET: Students/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
-            if (id == null)
+            if (id == null || _context.Students == null)
             {
                 return NotFound();
             }
@@ -124,7 +131,7 @@ namespace StudentManagement.Controllers
         // GET: Students/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
-            if (id == null)
+            if (id == null || _context.Students == null)
             {
                 return NotFound();
             }
@@ -145,19 +152,23 @@ namespace StudentManagement.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
+            if (_context.Students == null)
+            {
+                return Problem("Entity set 'StudentManagementContext.Students'  is null.");
+            }
             var student = await _context.Students.FindAsync(id);
             if (student != null)
             {
                 _context.Students.Remove(student);
             }
-
+            
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool StudentExists(int id)
         {
-            return _context.Students.Any(e => e.StudentId == id);
+          return (_context.Students?.Any(e => e.StudentId == id)).GetValueOrDefault();
         }
     }
 }

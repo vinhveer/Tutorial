@@ -1,0 +1,8 @@
+# ninja log v6
+2	710	7543783872214750	CMakeFiles/EmployeeManagement.dir/main.cpp.obj	e9b52fc135402148
+25	1078	7543783872451555	CMakeFiles/EmployeeManagement.dir/Developer.cpp.obj	f58d08068735ecce
+16	1085	7543783872360501	CMakeFiles/EmployeeManagement.dir/Manager.cpp.obj	992c0b6d5f1e5830
+9	1135	7543783872279898	CMakeFiles/EmployeeManagement.dir/Employee.cpp.obj	7503c4062d014b63
+1136	1454	7543783883551101	EmployeeManagement.exe	e7bf95c488e8bb14
+28	559	7543785376057019	CMakeFiles/EmployeeManagement.dir/main.cpp.obj	e9b52fc135402148
+560	719	7543785381383390	EmployeeManagement.exe	e7bf95c488e8bb14

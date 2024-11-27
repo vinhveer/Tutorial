@@ -1,46 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\models\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\models\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|d:\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A212E665-2CFE-4357-89CB-BC941B08A474}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|c:\\users\\vinhnq\\desktop\\tutorial\\dotnet_core\\studentmanagement\\studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91D076B3-304C-4C4D-A9B1-ACD6C4B7ED72}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,134 +42,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:20:29.912Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Edit.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Edit.cshtml",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Edit.cshtml",
-              "RelativeToolTip": "StudentManagement\\Views\\Students\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T06:04:10.125Z",
+              "WhenOpened": "2024-11-18T06:20:28.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Details.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Details.cshtml",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Details.cshtml",
-              "RelativeToolTip": "StudentManagement\\Views\\Students\\Details.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T06:04:08.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Delete.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Delete.cshtml",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Delete.cshtml",
-              "RelativeToolTip": "StudentManagement\\Views\\Students\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T06:04:06.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T05:39:49.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
-              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Index.cshtml",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
-              "RelativeToolTip": "StudentManagement\\Views\\Students\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T05:39:46.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
               "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Create.cshtml",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Create.cshtml",
               "RelativeToolTip": "StudentManagement\\Views\\Students\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T05:39:35.012Z",
+              "WhenOpened": "2024-11-18T06:20:27.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentsController.cs",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "StudentManagement\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Delete.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:20:27.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:20:06.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T05:39:18.762Z",
+              "WhenOpened": "2024-11-17T20:05:10.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "StudentManagementContext.cs",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Models\\StudentManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Models\\StudentManagementContext.cs",
               "RelativeDocumentMoniker": "StudentManagement\\Models\\StudentManagementContext.cs",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Models\\StudentManagementContext.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Models\\StudentManagementContext.cs",
               "RelativeToolTip": "StudentManagement\\Models\\StudentManagementContext.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wAgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T05:20:24.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T20:04:59.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\appsettings.json",
-              "RelativeToolTip": "StudentManagement\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-16T05:11:45.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
-              "ToolTip": "D:\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Program.cs",
-              "RelativeToolTip": "StudentManagement\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAABmAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\vinhnq\\Desktop\\Tutorial\\dotnet_core\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T05:11:18.401Z"
+              "WhenOpened": "2024-11-17T19:37:33.321Z"
             }
           ]
         }
